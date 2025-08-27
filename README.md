@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Abishan
-## 🚀 Full-Stack Developer | Problem Solver | Coffee Enthusiast
-
+🚀 Full-Stack Developer | Problem Solver | Coffee Enthusiast
 __"Code is poetry written in logic" - Building digital experiences one commit at a time__
 
 🛠️ Tech Arsenal
