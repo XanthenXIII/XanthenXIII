@@ -4,13 +4,10 @@ __"Code is poetry written in logic" - Building digital experiences one commit at
 
 🛠️ Tech Arsenal
 Languages & Frameworks
-textFrontend    ████████████░░  85%  JavaScript, React, Vue.js
-
-Backend     ███████████░░░  75%  Node.js, Python, Express
-
-Database    ████████░░░░░░  60%  MongoDB, PostgreSQL
-
-DevOps      ██████░░░░░░░░  45%  Docker, AWS, CI/CD
+- Frontend    ████████████░░  85%  JavaScript, React, Vue.js
+- Backend     ███████████░░░  75%  Node.js, Python, Express
+- Database    ████████░░░░░░  60%  MongoDB, PostgreSQL
+- DevOps      ██████░░░░░░░░  45%  Docker, AWS, CI/CD
 
 Currently Exploring: 🔍 WebAssembly, Rust, Kubernetes
 
