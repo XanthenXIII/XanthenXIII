@@ -1,7 +1,8 @@
-Hey there! 👋 I'm Abishan
-🚀 Full-Stack Developer | Problem Solver | Coffee Enthusiast
+#Hey there! 👋 I'm Abishan
+##🚀 Full-Stack Developer | Problem Solver | Coffee Enthusiast
 
-"Code is poetry written in logic" - Building digital experiences one commit at a time
+__"Code is poetry written in logic" - Building digital experiences one commit at a time__
+---
 
 🛠️ Tech Arsenal
 Languages & Frameworks
@@ -10,8 +11,9 @@ Backend     ███████████░░░  75%  Node.js, Python, Ex
 Database    ████████░░░░░░  60%  MongoDB, PostgreSQL
 DevOps      ██████░░░░░░░░  45%  Docker, AWS, CI/CD
 Currently Exploring: 🔍 WebAssembly, Rust, Kubernetes
-🎯 What I'm Up To
+---
 
+# 🎯 What I'm Up To
 🔭 Working on: Trading Algorythms
 🌱 Learning: Advanced system design and microservices architecture
 ⚡ Fun fact: I can debug code faster after my third cup of coffee
